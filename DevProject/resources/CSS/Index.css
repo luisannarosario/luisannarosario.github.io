@@ -1,0 +1,46 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  #header {
+      background-color: rgb(242, 188, 197);
+  }
+   
+  #item {
+      font-family: helvetica;
+      font-size: 100px;
+      font-weight: bold;
+      color: khaki;
+      text-align: center;
+      background-image: url("../../imagenes/pattern.jpeg");
+  }
+  
+  #first-title {
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+  }
+
+  #seconds-title {
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+  }
+
+  #third-title {
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+  }
+   
+  .text-blue {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+  }
